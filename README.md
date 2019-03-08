@@ -1,0 +1,2 @@
+# fortuneteller
+fortuneteller fun project
